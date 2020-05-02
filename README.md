@@ -48,7 +48,9 @@ First go to project5.R, then click the 'run' button in the file section (not the
 
 There will be a part when it's keep outputing plots and you can do nothing, because there is a big loop training, wait until it finishes then click 'run' until we see the package 'ggplot' is called, a graph will show in the bottom right section.
 
-For extra credits, just go down to that part and run it. Maybe you need to wait for a while to train and load. When the console in the bottom left corner is running, please do not load new commands. In correct operation, it will output the accuracy.
+For extra credits, just go down to that part and run it. Model4 maybe have some problems.
+
+While running maybe you need to wait for a while to train and load. When the console in the bottom left corner is running, please do not load new commands. In correct operation, it will output the dotplot.
 
 ## About
 This is our sixth group project of CS499 Deep Learning course in Spring 2020 at [NAU](https://nau.edu/)
